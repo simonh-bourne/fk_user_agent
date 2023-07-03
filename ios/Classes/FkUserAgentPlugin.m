@@ -92,50 +92,50 @@
             @"iPad7,2"   :@"iPad/Pro_12.9-inch", // 2nd Generation iPad Pro 12.5-inch - Cellular
             @"iPad7,3"   :@"iPad/Pro_10.5-inch", // iPad/Pro_10.5-inch - Wifi
             @"iPad7,4"   :@"iPad/Pro_10.5-inch", // iPad/Pro_10.5-inch - Cellular
-            @"iPad7,5"     :@"iPad/6th_Gen (WiFi)"
-            @"iPad7,6"     :@"iPad/6th_Gen (WiFi+Cellular)"
-            @"iPad7,11"    :@"iPad/7th_Gen 10.2-inch (WiFi)"
-            @"iPad7,12"    :@"iPad/7th_Gen 10.2-inch (WiFi+Cellular)"
-            @"iPad8,1"     :@"iPad/Pro_11_inch 3rd Gen (WiFi)"
-            @"iPad8,2"     :@"iPad/Pro_11_inch 3rd Gen (1TB, WiFi)"
-            @"iPad8,3"     :@"iPad/Pro_11_inch 3rd Gen (WiFi+Cellular)"
-            @"iPad8,4"     :@"iPad/Pro_11_inch 3rd Gen (1TB, WiFi+Cellular)"
-            @"iPad8,5"     :@"iPad/Pro_12.9_inch 3rd Gen (WiFi)"
-            @"iPad8,6"     :@"iPad/Pro_12.9_inch 3rd Gen (1TB, WiFi)"
-            @"iPad8,7"     :@"iPad/Pro_12.9_inch 3rd Gen (WiFi+Cellular)"
-            @"iPad8,8"     :@"iPad/Pro_12.9_inch 3rd Gen (1TB, WiFi+Cellular)"
-            @"iPad8,9"     :@"iPad/Pro_11_inch 4th Gen (WiFi)"
-            @"iPad8,10"    :@"iPad/Pro_11_inch 4th Gen (WiFi+Cellular)"
-            @"iPad8,11"    :@"iPad/Pro_12.9_inch 4th Gen (WiFi)"
-            @"iPad8,12"    :@"iPad/Pro_12.9_inch 4th Gen (WiFi+Cellular)"
-            @"iPad11,1"    :@"iPad/mini_5th Gen (WiFi)"
-            @"iPad11,2"    :@"iPad/mini_5th Gen"
-            @"iPad11,3"    :@"iPad/Air_3rd Gen (WiFi)"
-            @"iPad11,4"    :@"iPad/Air_3rd Gen"
-            @"iPad11,6"    :@"iPad/8th_Gen (WiFi)"
-            @"iPad11,7"    :@"iPad/8th_Gen (WiFi+Cellular)"
-            @"iPad12,1"    :@"iPad/9th_Gen (WiFi)"
-            @"iPad12,2"    :@"iPad/9th_Gen (WiFi+Cellular)"
-            @"iPad14,1"    :@"iPad/mini_6th_Gen (WiFi)"
-            @"iPad14,2"    :@"iPad/mini_6th_Gen (WiFi+Cellular)"
-            @"iPad13,1"    :@"iPad/Air_4th_Gen (WiFi)"
-            @"iPad13,2"    :@"iPad/Air_4th_Gen (WiFi+Cellular)"
-            @"iPad13,4"    :@"iPad/Pro_11_inch 5th Gen"
-            @"iPad13,5"    :@"iPad/Pro_11_inch 5th Gen"
-            @"iPad13,6"    :@"iPad/Pro_11_inch 5th Gen"
-            @"iPad13,7"    :@"iPad/Pro_11_inch 5th Gen"
-            @"iPad13,8"    :@"iPad/Pro_12.9_inch 5th Gen"
-            @"iPad13,9"    :@"iPad/Pro_12.9_inch 5th Gen"
-            @"iPad13,10"   :@"iPad/Pro_12.9_inch 5th Gen"
-            @"iPad13,11"   :@"iPad/Pro_12.9_inch 5th Gen"
-            @"iPad13,16"   :@"iPad/Air_5th_Gen (WiFi)"
-            @"iPad13,17"   :@"iPad/Air_5th_Gen (WiFi+Cellular)"
-            @"iPad13,18"   :@"iPad/10th_Gen"
-            @"iPad13,19"   :@"iPad/10th_Gen"
-            @"iPad14,3"    :@"iPad/Pro_11_inch 4th Gen"
-            @"iPad14,4"    :@"iPad/Pro_11_inch 4th Gen"
-            @"iPad14,5"    :@"iPad/Pro_12.9_inch 6th Gen"
-            @"iPad14,6"    :@"iPad/Pro_12.9_inch 6th Gen"
+            @"iPad7,5"     :@"iPad/6th_Gen (WiFi)",
+            @"iPad7,6"     :@"iPad/6th_Gen (WiFi+Cellular)",
+            @"iPad7,11"    :@"iPad/7th_Gen 10.2-inch (WiFi)",
+            @"iPad7,12"    :@"iPad/7th_Gen 10.2-inch (WiFi+Cellular)",
+            @"iPad8,1"     :@"iPad/Pro_11_inch 3rd Gen (WiFi)",
+            @"iPad8,2"     :@"iPad/Pro_11_inch 3rd Gen (1TB, WiFi)",
+            @"iPad8,3"     :@"iPad/Pro_11_inch 3rd Gen (WiFi+Cellular)",
+            @"iPad8,4"     :@"iPad/Pro_11_inch 3rd Gen (1TB, WiFi+Cellular)",
+            @"iPad8,5"     :@"iPad/Pro_12.9_inch 3rd Gen (WiFi)",
+            @"iPad8,6"     :@"iPad/Pro_12.9_inch 3rd Gen (1TB, WiFi)",
+            @"iPad8,7"     :@"iPad/Pro_12.9_inch 3rd Gen (WiFi+Cellular)",
+            @"iPad8,8"     :@"iPad/Pro_12.9_inch 3rd Gen (1TB, WiFi+Cellular)",
+            @"iPad8,9"     :@"iPad/Pro_11_inch 4th Gen (WiFi)",
+            @"iPad8,10"    :@"iPad/Pro_11_inch 4th Gen (WiFi+Cellular)",
+            @"iPad8,11"    :@"iPad/Pro_12.9_inch 4th Gen (WiFi)",
+            @"iPad8,12"    :@"iPad/Pro_12.9_inch 4th Gen (WiFi+Cellular)",
+            @"iPad11,1"    :@"iPad/mini_5th Gen (WiFi)",
+            @"iPad11,2"    :@"iPad/mini_5th Gen",
+            @"iPad11,3"    :@"iPad/Air_3rd Gen (WiFi)",
+            @"iPad11,4"    :@"iPad/Air_3rd Gen",
+            @"iPad11,6"    :@"iPad/8th_Gen (WiFi)",
+            @"iPad11,7"    :@"iPad/8th_Gen (WiFi+Cellular)",
+            @"iPad12,1"    :@"iPad/9th_Gen (WiFi)",
+            @"iPad12,2"    :@"iPad/9th_Gen (WiFi+Cellular)",
+            @"iPad14,1"    :@"iPad/mini_6th_Gen (WiFi)",
+            @"iPad14,2"    :@"iPad/mini_6th_Gen (WiFi+Cellular)",
+            @"iPad13,1"    :@"iPad/Air_4th_Gen (WiFi)",
+            @"iPad13,2"    :@"iPad/Air_4th_Gen (WiFi+Cellular)",
+            @"iPad13,4"    :@"iPad/Pro_11_inch 5th Gen",
+            @"iPad13,5"    :@"iPad/Pro_11_inch 5th Gen",
+            @"iPad13,6"    :@"iPad/Pro_11_inch 5th Gen",
+            @"iPad13,7"    :@"iPad/Pro_11_inch 5th Gen",
+            @"iPad13,8"    :@"iPad/Pro_12.9_inch 5th Gen",
+            @"iPad13,9"    :@"iPad/Pro_12.9_inch 5th Gen",
+            @"iPad13,10"   :@"iPad/Pro_12.9_inch 5th Gen",
+            @"iPad13,11"   :@"iPad/Pro_12.9_inch 5th Gen",
+            @"iPad13,16"   :@"iPad/Air_5th_Gen (WiFi)",
+            @"iPad13,17"   :@"iPad/Air_5th_Gen (WiFi+Cellular)",
+            @"iPad13,18"   :@"iPad/10th_Gen",
+            @"iPad13,19"   :@"iPad/10th_Gen",
+            @"iPad14,3"    :@"iPad/Pro_11_inch 4th Gen",
+            @"iPad14,4"    :@"iPad/Pro_11_inch 4th Gen",
+            @"iPad14,5"    :@"iPad/Pro_12.9_inch 6th Gen",
+            @"iPad14,6"    :@"iPad/Pro_12.9_inch 6th Gen",
             @"iPhone1,1" :@"iPhone",             // (Original)
             @"iPhone1,2" :@"iPhone/3G",          // (3G)
             @"iPhone2,1" :@"iPhone/3GS",         // (3GS)
@@ -171,20 +171,20 @@
             @"iPhone12,1":@"iPhone/11",
             @"iPhone12,3":@"iPhone/11_Pro",
             @"iPhone12,5":@"iPhone/11_Pro_Max",
-            @"iPhone12,8":@"iPhone/SE_2nd_Gen"
-            @"iPhone13,1":@"iPhone/12_Mini"
-            @"iPhone13,2":@"iPhone/12"
-            @"iPhone13,3":@"iPhone/12_Pro"
-            @"iPhone13,4":@"iPhone/12_Pro_Max"
-            @"iPhone14,2":@"iPhone/13_Pro"
-            @"iPhone14,3":@"iPhone/13_Pro_Max"
-            @"iPhone14,4":@"iPhone/13_Mini"
-            @"iPhone14,5":@"iPhone/13"
-            @"iPhone14,6":@"iPhone/SE_3rd_Gen"
-            @"iPhone14,7":@"iPhone/14"
-            @"iPhone14,8":@"iPhone/14_Plus"
-            @"iPhone15,2":@"iPhone/14_Pro"
-            @"iPhone15,3":@"iPhone/14_Pro_Max"
+            @"iPhone12,8":@"iPhone/SE_2nd_Gen",
+            @"iPhone13,1":@"iPhone/12_Mini",
+            @"iPhone13,2":@"iPhone/12",
+            @"iPhone13,3":@"iPhone/12_Pro",
+            @"iPhone13,4":@"iPhone/12_Pro_Max",
+            @"iPhone14,2":@"iPhone/13_Pro",
+            @"iPhone14,3":@"iPhone/13_Pro_Max",
+            @"iPhone14,4":@"iPhone/13_Mini",
+            @"iPhone14,5":@"iPhone/13",
+            @"iPhone14,6":@"iPhone/SE_3rd_Gen",
+            @"iPhone14,7":@"iPhone/14",
+            @"iPhone14,8":@"iPhone/14_Plus",
+            @"iPhone15,2":@"iPhone/14_Pro",
+            @"iPhone15,3":@"iPhone/14_Pro_Max",
             @"AppleTV2,1":@"AppleTV",            // Apple TV (2nd Generation)
             @"AppleTV3,1":@"AppleTV",            // Apple TV (3rd Generation)
             @"AppleTV3,2":@"AppleTV",            // Apple TV (3rd Generation - Rev A)
