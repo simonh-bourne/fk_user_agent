@@ -22,6 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'io.flutterfastkit.fk_user_agent'
+
     compileSdkVersion 30
 
     defaultConfig {
